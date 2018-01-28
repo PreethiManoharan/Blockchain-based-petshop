@@ -29,10 +29,12 @@ Write the smart contract in solidity
 
 #### Migration:
 To migrate the smart contracts into the blockchian.
+
 *truffle migrate*
 
 #### Test:
 After migrating, test the contracts by providing input values and checking if necessary output is obtained.
+
 *truffle test*
 
 #### Metamask:
@@ -40,7 +42,10 @@ Use the mnenomic and an account provided in testrpc in metamask, it is chrome pl
 
 #### Run the dapp:
 Start the local web server and run the dapp.
+
 *npm run dev*
+
+______________________
 
 
 
