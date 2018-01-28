@@ -1,8 +1,9 @@
 # Ethereum based PetShop
 
--It is an adoption system for a pet shop, the customers are provided with an Web-UI to adopt the pets using digital money called ethers,provided by testrpc and the public key of the customer is stored in blockchain to track the transactions.
--Build using Ethereum, Truffle and Metamask.
--My first dapp and helped me to understand blockchain, ethereum, solidity, truffle framework and metamask.
+* It is an adoption system for a pet shop, the customers are provided with an Web-UI to adopt the pets using digital money called ethers,provided by testrpc and the public key of the customer is stored in blockchain to track the transactions.
+* Build using Ethereum, Truffle and Metamask.
+* This is my first dapp and helped me to understand blockchain, ethereum, solidity, truffle framework and metamask.
+______________________
 
 #### Installation:
 
@@ -37,7 +38,7 @@ After migrating, test the contracts by providing input values and checking if ne
 #### Metamask:
 Use the mnenomic and an account provided in testrpc in metamask, it is chrome plugin which provides an user interface to buy or sell products using ethers.
 
-### Run the dapp:
+#### Run the dapp:
 Start the local web server and run the dapp.
 *npm run dev*
 
