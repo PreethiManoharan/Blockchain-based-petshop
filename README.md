@@ -7,9 +7,9 @@ ______________________
 
 #### Installation:
 
--npm
--git
--To install truffle:
+- npm
+- git
+- To install truffle:
 *npm install -g truffle*
 
 #### Using Truffle box:
@@ -17,8 +17,8 @@ ______________________
 
 #### Smart contract:
 Write the smart contract in solidity
--*Adopiton.sol
--migration.sol*
+- *Adopiton.sol
+- migration.sol*
 
 #### Run the ethereum testrpc in terminal
 *testrpc*
